@@ -1,0 +1,21 @@
+How many different species per park?
+
+	Found 5,541 species in every park.
+	
+
+How many endangered vs not vulnerable species?
+
+	There's records of 191 vulnerable vs 5633 not-at-risk species
+
+Is any category more endangered than the rest?
+
+	After some plotting, we found that the category with more percentage of endangered species is the Mammals one, followed by Birds. The ones with the least % of species in danger are the two plant categories.
+
+Do any parks stand out for having more endangered species?
+
+	The graph showed there's 179 at-risk species in every single park.
+
+Distributions of Conservation Status?
+
+
+	
